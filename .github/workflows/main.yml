@@ -1,5 +1,4 @@
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.0.0-rc.2
+name: generate-snake-game-from-github-contribution-grid
 
 on:
   schedule: # execute every 12 hours
