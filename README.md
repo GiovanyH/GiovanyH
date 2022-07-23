@@ -1,5 +1,5 @@
 ## Hey 👋
-I'm Gio, I like to create new things in general. I like C, C++, JavaScript, Python and many other languages. I wish I could learn everything faster! 
+I'm Gio. I like C, C++, Rust, Python and many other languages. I wish I could learn everything faster! 
 
 🌱 Currently learning OpenGL on https://learnopengl.com/.
 
@@ -15,9 +15,11 @@ I'm Gio, I like to create new things in general. I like C, C++, JavaScript, Pyth
 	<h3 style="text-align=center">Skills</h3>
 <div>
 
+## Skills
+#### Languages
 ![Rust](assets/Rust.svg)
 ![C](assets/C.svg)
-![Python](assets/Python.svg)
 ![Shell Script](assets/Shell_Script.svg)
+#### Others
 ![Git](assets/Git.svg)
 ![Linux](assets/Linux.svg)
