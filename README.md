@@ -2,7 +2,7 @@
 I'm Gio. I like C, C++, Rust, Python and many other languages. I wish I could learn everything faster! 
 
 <div align="center">
-<h3> Currently learning
+<h3> Currently learning  
 🌱 OpenGL on https://learnopengl.com/.  
 Rust Language.  
 
