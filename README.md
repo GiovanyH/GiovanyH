@@ -1,5 +1,5 @@
-## Hey 👋
 <div align="center">
+## Hey 👋
 I'm Gio. I like C, C++, Rust, Python and many other languages. I wish I could learn everything faster! 
 
 <div align="center">
