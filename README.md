@@ -15,7 +15,6 @@ I'm Gio. I like C, C++, Rust, Python and many other languages. I wish I could le
 	<h3 style="text-align=center">Skills</h3>
 <div>
 
-## Skills
 #### Languages
 ![Rust](assets/Rust.svg)
 ![C](assets/C.svg)
