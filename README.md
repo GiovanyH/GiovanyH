@@ -3,8 +3,10 @@ I'm Gio. I like C, C++, Rust, Python and many other languages. I wish I could le
 
 <div align="center">
 	<h3> Currently learning  </h3>
-🌱 OpenGL on https://learnopengl.com/.  
+🌱 OpenGL on https://learnopengl.com/.
+
 Rust Language.  
+
 
 Currently working on my own Game Engine
 
