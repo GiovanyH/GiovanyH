@@ -12,10 +12,7 @@ Rust -> https://www.rust-lang.org/.
 
 Currently working on my own Game Engine 🌱
 
-<div align="center">
-	<a href="https://github.com/GiovanyH">
-	<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanyH&layout=compact&langs_count=7&theme=dark"/>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiovanyH&theme=dark&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/GiovanyH/GiovanyH/blob/output/github-contribution-grid-snake.svg)
 
