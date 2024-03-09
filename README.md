@@ -13,8 +13,6 @@ https://github.com/GiovanyH/HorrorEngine
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GiovanyH&theme=dark&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/GiovanyH/GiovanyH/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
 	<h3 style="text-align=center">Skills</h3>
 <div>
