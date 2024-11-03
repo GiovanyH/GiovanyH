@@ -1,4 +1,5 @@
-## Hi there 👋
+## Who am I ?
+I'm a fellow developer currently working on a game called "TerraLith", inspired by "Terraria".
 
 <!--
 **GiovanyH/GiovanyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
